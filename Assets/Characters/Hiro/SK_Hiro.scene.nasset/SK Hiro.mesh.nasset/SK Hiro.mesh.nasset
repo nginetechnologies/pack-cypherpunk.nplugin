@@ -1,0 +1,244 @@
+{
+    "guid": "7e2bc010-15ca-ba0e-8f29-cf365551ecca",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d320f32f-b176-1371-47a3-3c77baaa9ab1",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6fd7817b-414a-c083-0cb6-3b4ec4597942",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Hiro Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "8e2ed575-7756-abfc-7af7-e5c8a4c9d246",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "5b5a3377-d1d6-45fe-948a-cd20399c07cb",
+                                "83063715-ad75-4bfa-a01e-0dcd8db7564a",
+                                "1f817e0c-ecdb-455e-8c3f-7b05757f2473"
+                            ],
+                            "jump_animations": [
+                                "ffd7e1d7-5d20-4263-a248-75d0c8fe808c",
+                                "96f830e7-a3b2-4221-a648-97d1e76304fb",
+                                "1cedd255-dc72-4a01-91ec-6419c5a1b774"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c1f0ac18-269d-9274-cad2-3f85b848efd8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Hiro Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "251c94f4-7455-211f-2c72-979c081bba5b",
+                                "material_instance": "4897a0bf-9467-300f-990d-4de3c49de7c8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d7ce0010-e906-16a1-f8b3-aa7c2905c266"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "11f40397-6823-5ddb-4bc3-e1449b3ff76c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Hiro Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a2c494b8-bb74-1143-18e8-867e00176b49",
+                                "material_instance": "1e26fce9-22e7-cd74-4795-25799bf03252"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c673f0bb-b969-472c-7cea-5f1d8fdd98ea"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8a18a7e3-2881-df7f-186e-9fc97073fc5a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Hiro White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4edaebc9-a9a2-66dd-647b-ed9e23cab1cf",
+                                "material_instance": "92f6a1e8-ec82-8f58-2046-2f5b1e7290e0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e1eddf22-0ccd-d592-ddcf-2362ce2e0841"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b18ec9c1-a06d-3d7c-386a-b5ed6318231a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Hiro Accent"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d740622d-ed99-b696-a67f-509c182a4634",
+                                "material_instance": "e3ab3ba2-428a-6714-c8a5-2552fc858243"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8e900841-edb5-946e-2261-792f6c53fb3a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0ac0a526-30de-b739-4247-7930fc061513",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Hiro Accent Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "168d9cc6-78e3-8627-f64b-7a72267ecd74",
+                                "material_instance": "c2e71e8e-138d-02fb-4664-d43e1c7bdc99"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7c9cf2ea-e2bc-8add-b43c-0d50a4fe938c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d536dae1-3bdc-2ea4-d069-faf58659f6e1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Hiro Blade"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "df6265ae-4277-b224-b895-cfd8ca69b9e8",
+                                "material_instance": "0a6369d8-d92d-29b3-0764-1fcf31d39a89"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a2455e6a-1c3e-a432-c505-fe75edd51f5e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2043be2c-8081-0a8f-278d-bc91edccbc38",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Hiro Blade Edge"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "67cff280-5673-8719-ee52-9308fa59e821",
+                                "material_instance": "5123f0be-fd15-73be-c59c-d9a4f8f111ea"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ae8238c4-3d06-6024-4ac3-8d7cdc6b71c0"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "2514225f-379c-59a5-662c-4f6fd3b81a2c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "7e2bc010-15ca-ba0e-8f29-cf365551ecca"
+    },
+    "dependencies": [
+        "4897a0bf-9467-300f-990d-4de3c49de7c8",
+        "251c94f4-7455-211f-2c72-979c081bba5b",
+        "d7ce0010-e906-16a1-f8b3-aa7c2905c266",
+        "1e26fce9-22e7-cd74-4795-25799bf03252",
+        "a2c494b8-bb74-1143-18e8-867e00176b49",
+        "c673f0bb-b969-472c-7cea-5f1d8fdd98ea",
+        "92f6a1e8-ec82-8f58-2046-2f5b1e7290e0",
+        "4edaebc9-a9a2-66dd-647b-ed9e23cab1cf",
+        "e1eddf22-0ccd-d592-ddcf-2362ce2e0841",
+        "e3ab3ba2-428a-6714-c8a5-2552fc858243",
+        "d740622d-ed99-b696-a67f-509c182a4634",
+        "8e900841-edb5-946e-2261-792f6c53fb3a",
+        "c2e71e8e-138d-02fb-4664-d43e1c7bdc99",
+        "168d9cc6-78e3-8627-f64b-7a72267ecd74",
+        "7c9cf2ea-e2bc-8add-b43c-0d50a4fe938c",
+        "0a6369d8-d92d-29b3-0764-1fcf31d39a89",
+        "df6265ae-4277-b224-b895-cfd8ca69b9e8",
+        "a2455e6a-1c3e-a432-c505-fe75edd51f5e",
+        "5123f0be-fd15-73be-c59c-d9a4f8f111ea",
+        "67cff280-5673-8719-ee52-9308fa59e821",
+        "ae8238c4-3d06-6024-4ac3-8d7cdc6b71c0",
+        "2514225f-379c-59a5-662c-4f6fd3b81a2c"
+    ]
+}

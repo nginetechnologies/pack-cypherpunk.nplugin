@@ -227,6 +227,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0a6369d8-d92d-29b3-0764-1fcf31d39a89": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Hiro/Material Instances/Blade.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "0ab2bb44-fda2-8208-970a-3994374f8d71": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Sign Small 2.mesh.nasset/Thumbnails/Sign Small 2.mesh.nasset.tex.nasset"
@@ -407,6 +414,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "168d9cc6-78e3-8627-f64b-7a72267ecd74": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Accent Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c2e71e8e-138d-02fb-4664-d43e1c7bdc99",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "1838bd44-5c90-e529-29d6-5fc0ffa14f5a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -520,6 +539,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "1cedd255-dc72-4a01-91ec-6419c5a1b774": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Hiro_Jump_End.anim.nasset",
+        "dependencies": [
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c"
+        ]
+    },
     "1d3c3056-c187-d11a-3e2a-c4c97f25bd07": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -554,6 +581,13 @@
         "dependencies": [
             "bb7b1d24-cf17-7add-e960-10eecddc2158",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1e26fce9-22e7-cd74-4795-25799bf03252": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Hiro/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "1e504e65-6a2d-7d22-5854-07d1c74cb923": {
@@ -614,6 +648,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1f817e0c-ecdb-455e-8c3f-7b05757f2473": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Hiro_Run.anim.nasset",
+        "dependencies": [
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c"
+        ]
+    },
     "1fb22c50-c863-dd58-aca8-497dc4941479": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Rail Short.mesh.nasset/Thumbnails/Rail Short.mesh.nasset.tex.nasset"
@@ -665,6 +707,23 @@
         ],
         "dependencies": [
             "bb7b1d24-cf17-7add-e960-10eecddc2158",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2514225f-379c-59a5-662c-4f6fd3b81a2c": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "251c94f4-7455-211f-2c72-979c081bba5b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4897a0bf-9467-300f-990d-4de3c49de7c8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1052,6 +1111,15 @@
             "34385c9b-06c6-2850-2c56-14834b443496"
         ]
     },
+    "3d4270da-24fc-4ec0-a28a-68766a429792": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Hiro/Hiro Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "7e2bc010-15ca-ba0e-8f29-cf365551ecca"
+        ]
+    },
     "3dca7285-09aa-fd46-1f07-34746fdd4329": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Metal Light.mtli.nasset.tex.nasset"
@@ -1293,6 +1361,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4897a0bf-9467-300f-990d-4de3c49de7c8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Hiro/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "492cd91e-7bad-287b-f35a-23d6133bf8ac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1379,6 +1454,18 @@
             "74dff3ef-ac0a-02cf-b555-11ea84f16e40"
         ]
     },
+    "4edaebc9-a9a2-66dd-647b-ed9e23cab1cf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92f6a1e8-ec82-8f58-2046-2f5b1e7290e0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4f60123a-ab34-0466-0315-f053b51a73bc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Lever Base.mesh.nasset/Thumbnails/Lever Base.mesh.nasset.tex.nasset"
@@ -1401,6 +1488,13 @@
         "dependencies": [
             "15177b3d-8c9d-322d-7387-c8a70621b94f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5123f0be-fd15-73be-c59c-d9a4f8f111ea": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Hiro/Material Instances/Blade Edge.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "51242f79-99d0-676b-b986-37e7a5a96b9b": {
@@ -1565,6 +1659,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7",
             "bb7b1d24-cf17-7add-e960-10eecddc2158",
             "79018d00-2825-306a-4d79-158a83e958e7"
+        ]
+    },
+    "5b5a3377-d1d6-45fe-948a-cd20399c07cb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Hiro_Idle.anim.nasset",
+        "dependencies": [
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
     },
     "5b910529-0570-32ef-85c4-72d86465895c": {
@@ -1778,6 +1880,18 @@
         ],
         "dependencies": [
             "15177b3d-8c9d-322d-7387-c8a70621b94f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "67cff280-5673-8719-ee52-9308fa59e821": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Blade Edge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5123f0be-fd15-73be-c59c-d9a4f8f111ea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2103,6 +2217,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Cable Long.mesh.nasset/Thumbnails/Cable Long.mesh.nasset.tex.nasset"
     },
+    "7c9cf2ea-e2bc-8add-b43c-0d50a4fe938c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Accent Dark.meshskin.nasset",
+        "dependencies": [
+            "168d9cc6-78e3-8627-f64b-7a72267ecd74",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c",
+            "c2e71e8e-138d-02fb-4664-d43e1c7bdc99"
+        ]
+    },
     "7c9d9b1a-82ef-5fae-afff-b1b7e30f3d0e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Sign 2.mesh.nasset/Thumbnails/Sign 2.mesh.nasset.tex.nasset"
@@ -2117,6 +2241,38 @@
         "dependencies": [
             "a6c6dec4-9dbf-c8bf-e797-9c977c1ff26d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7e2bc010-15ca-ba0e-8f29-cf365551ecca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4897a0bf-9467-300f-990d-4de3c49de7c8",
+            "251c94f4-7455-211f-2c72-979c081bba5b",
+            "d7ce0010-e906-16a1-f8b3-aa7c2905c266",
+            "1e26fce9-22e7-cd74-4795-25799bf03252",
+            "a2c494b8-bb74-1143-18e8-867e00176b49",
+            "c673f0bb-b969-472c-7cea-5f1d8fdd98ea",
+            "92f6a1e8-ec82-8f58-2046-2f5b1e7290e0",
+            "4edaebc9-a9a2-66dd-647b-ed9e23cab1cf",
+            "e1eddf22-0ccd-d592-ddcf-2362ce2e0841",
+            "e3ab3ba2-428a-6714-c8a5-2552fc858243",
+            "d740622d-ed99-b696-a67f-509c182a4634",
+            "8e900841-edb5-946e-2261-792f6c53fb3a",
+            "c2e71e8e-138d-02fb-4664-d43e1c7bdc99",
+            "168d9cc6-78e3-8627-f64b-7a72267ecd74",
+            "7c9cf2ea-e2bc-8add-b43c-0d50a4fe938c",
+            "0a6369d8-d92d-29b3-0764-1fcf31d39a89",
+            "df6265ae-4277-b224-b895-cfd8ca69b9e8",
+            "a2455e6a-1c3e-a432-c505-fe75edd51f5e",
+            "5123f0be-fd15-73be-c59c-d9a4f8f111ea",
+            "67cff280-5673-8719-ee52-9308fa59e821",
+            "ae8238c4-3d06-6024-4ac3-8d7cdc6b71c0",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
     },
     "7f2913f2-975b-ce92-c24d-5f705ff1a0e8": {
@@ -2197,6 +2353,14 @@
         "thumbnail": "0781bb04-e275-a653-b738-a30f5d50e926",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "83063715-ad75-4bfa-a01e-0dcd8db7564a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Hiro_Walk.anim.nasset",
+        "dependencies": [
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
     },
     "84e13b04-a34f-1f3c-2aca-d605088050b8": {
@@ -2340,6 +2504,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Pickup Health.mesh.nasset/Thumbnails/Pickup Health.mesh.nasset.tex.nasset"
     },
+    "8e900841-edb5-946e-2261-792f6c53fb3a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Accent.meshskin.nasset",
+        "dependencies": [
+            "d740622d-ed99-b696-a67f-509c182a4634",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c",
+            "e3ab3ba2-428a-6714-c8a5-2552fc858243"
+        ]
+    },
     "8f6ac6b9-2756-d602-1ada-e122d7c8ffb7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2390,6 +2564,13 @@
         "dependencies": [
             "1cb1f5fa-ff81-6289-ffd9-75affc60690e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "92f6a1e8-ec82-8f58-2046-2f5b1e7290e0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Hiro/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "9499b7b3-1937-30bb-f102-e05eb38b6d86": {
@@ -2500,6 +2681,14 @@
             "f7d55ba6-c331-99f2-32e9-d76343bbd9cd",
             "1c79e800-c046-a9fe-4f90-fafed8f05afc",
             "84e13b04-a34f-1f3c-2aca-d605088050b8"
+        ]
+    },
+    "96f830e7-a3b2-4221-a648-97d1e76304fb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Hiro_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
     },
     "972a1197-3ad8-929a-069d-8e31bd6c6e91": {
@@ -2703,6 +2892,28 @@
         ],
         "dependencies": [
             "1cc33d30-a47b-a9cb-8a27-4e8957283573",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a2455e6a-1c3e-a432-c505-fe75edd51f5e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Blade.meshskin.nasset",
+        "dependencies": [
+            "df6265ae-4277-b224-b895-cfd8ca69b9e8",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c",
+            "0a6369d8-d92d-29b3-0764-1fcf31d39a89"
+        ]
+    },
+    "a2c494b8-bb74-1143-18e8-867e00176b49": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1e26fce9-22e7-cd74-4795-25799bf03252",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2936,6 +3147,16 @@
         "dependencies": [
             "830535fb-fea3-ea8a-d0fd-32732cd96ec9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ae8238c4-3d06-6024-4ac3-8d7cdc6b71c0": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Blade Edge.meshskin.nasset",
+        "dependencies": [
+            "67cff280-5673-8719-ee52-9308fa59e821",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c",
+            "5123f0be-fd15-73be-c59c-d9a4f8f111ea"
         ]
     },
     "af63ef7d-29b4-d4c3-c085-3e2e57efc18b": {
@@ -3236,6 +3457,13 @@
             "9d3d8720-6c9d-de5c-a658-107a368a6712"
         ]
     },
+    "c2e71e8e-138d-02fb-4664-d43e1c7bdc99": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Hiro/Material Instances/Accent Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "c3576472-9f2d-04ff-a525-61ac8e610086": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3246,6 +3474,14 @@
         "dependencies": [
             "a6c6dec4-9dbf-c8bf-e797-9c977c1ff26d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c3b1bfa8-09ac-34db-a29b-22e6bf58a267": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK_Hiro.scene.nasset",
+        "dependencies": [
+            "7e2bc010-15ca-ba0e-8f29-cf365551ecca"
         ]
     },
     "c6095637-cb1b-0e1c-69ee-67fc61233182": {
@@ -3260,6 +3496,16 @@
             "15177b3d-8c9d-322d-7387-c8a70621b94f",
             "913d8d25-f686-99f4-7920-60e1b726e9a5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c673f0bb-b969-472c-7cea-5f1d8fdd98ea": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Black.meshskin.nasset",
+        "dependencies": [
+            "a2c494b8-bb74-1143-18e8-867e00176b49",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c",
+            "1e26fce9-22e7-cd74-4795-25799bf03252"
         ]
     },
     "c76fabce-f1bd-137f-80d6-e0bb8fc27c7b": {
@@ -3468,6 +3714,28 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d740622d-ed99-b696-a67f-509c182a4634": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Accent.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e3ab3ba2-428a-6714-c8a5-2552fc858243",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d7ce0010-e906-16a1-f8b3-aa7c2905c266": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Main.meshskin.nasset",
+        "dependencies": [
+            "251c94f4-7455-211f-2c72-979c081bba5b",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c",
+            "4897a0bf-9467-300f-990d-4de3c49de7c8"
+        ]
+    },
     "d81d71e7-2fca-b4a0-cd3c-673f88be883c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3568,6 +3836,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "df6265ae-4277-b224-b895-cfd8ca69b9e8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro Blade.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0a6369d8-d92d-29b3-0764-1fcf31d39a89",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "dfd09f1f-6cbc-133a-d87e-5bb259ea8565": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3602,6 +3882,23 @@
         "dependencies": [
             "830535fb-fea3-ea8a-d0fd-32732cd96ec9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e1eddf22-0ccd-d592-ddcf-2362ce2e0841": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Hiro/SK_Hiro.scene.nasset/SK Hiro.mesh.nasset/SK Hiro White.meshskin.nasset",
+        "dependencies": [
+            "4edaebc9-a9a2-66dd-647b-ed9e23cab1cf",
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c",
+            "92f6a1e8-ec82-8f58-2046-2f5b1e7290e0"
+        ]
+    },
+    "e3ab3ba2-428a-6714-c8a5-2552fc858243": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Hiro/Material Instances/Accent.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "e5cb8fe4-1cfb-3d6f-1720-6fe61a9c43eb": {
@@ -4158,6 +4455,14 @@
         "dependencies": [
             "1cc33d30-a47b-a9cb-8a27-4e8957283573",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ffd7e1d7-5d20-4263-a248-75d0c8fe808c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Hiro_Jump_Start.anim.nasset",
+        "dependencies": [
+            "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
     },
     "guid": "49a19bb9-d7b5-2368-92cc-7cf2ecbd71c7"
