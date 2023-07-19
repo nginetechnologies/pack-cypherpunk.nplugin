@@ -414,6 +414,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "166ffe12-f03e-4022-bfbf-8bfc5abfe557": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Hiro/Thumbnails/Hiro.scene.nasset.tex.nasset"
+    },
     "168d9cc6-78e3-8627-f64b-7a72267ecd74": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1114,8 +1118,11 @@
     "3d4270da-24fc-4ec0-a28a-68766a429792": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Hiro/Hiro Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "path": "Assets/Characters/Hiro/Hiro.scene.nasset",
+        "thumbnail": "166ffe12-f03e-4022-bfbf-8bfc5abfe557",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
         "dependencies": [
             "7e2bc010-15ca-ba0e-8f29-cf365551ecca"
         ]
@@ -1817,7 +1824,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
     },
     "634ae9b5-617e-ac59-da2d-e2c07a331758": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
