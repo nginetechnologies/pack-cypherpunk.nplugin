@@ -131,6 +131,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "05b5efde-540a-dce7-7552-cad0751e2062": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Wave.anim.nasset"
+    },
     "05d62ab1-6f7e-bfcf-d76a-5b677d18b509": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -344,6 +349,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "136999d2-b177-7f54-1637-ef7084e1f0e7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Interact.anim.nasset"
+    },
     "14057f0b-a529-c74a-c606-432bcd3442d2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Turret GunDouble Base.mesh.nasset/Thumbnails/Turret GunDouble Base.mesh.nasset.tex.nasset"
@@ -534,7 +544,7 @@
             "66173826-ac7d-44c4-a403-8dfde3fd54a0"
         ],
         "dependencies": [
-            "452a14ff-5060-40f3-a24d-805dd75ff5c9",
+            "a342b17f-be9f-4610-b973-0bc1f4157b5b",
             "26886064-e158-bbd2-30d7-6f99eab8e2e9"
         ]
     },
@@ -549,7 +559,7 @@
     "1cedd255-dc72-4a01-91ec-6419c5a1b774": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Hiro/Hiro_Jump_End.anim.nasset",
+        "path": "Assets/Characters/Hiro/Animations/Hiro_Jump_End.anim.nasset",
         "dependencies": [
             "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
@@ -658,7 +668,7 @@
     "1f817e0c-ecdb-455e-8c3f-7b05757f2473": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Hiro/Hiro_Run.anim.nasset",
+        "path": "Assets/Characters/Hiro/Animations/Hiro_Run.anim.nasset",
         "dependencies": [
             "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
@@ -745,6 +755,11 @@
     "26886064-e158-bbd2-30d7-6f99eab8e2e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/textures/T_Neon_Signs_D.tex.nasset"
+    },
+    "28650e0a-bb5c-cffc-8c12-eb425ae4cdd0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Run Right.anim.nasset"
     },
     "2b37275a-a419-a8a5-6c84-48e97b726b1b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1051,6 +1066,11 @@
             "830535fb-fea3-ea8a-d0fd-32732cd96ec9",
             "dfd09f1f-6cbc-133a-d87e-5bb259ea8565"
         ]
+    },
+    "3c3511aa-c8a9-4722-076e-cd9fa2e52563": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Kick Left.anim.nasset"
     },
     "3c5a252e-b723-69d0-71c2-919fc2744d7a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1410,6 +1430,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Door.mesh.nasset/Thumbnails/Door.mesh.nasset.tex.nasset"
     },
+    "4bbc698b-f564-b2e4-cbdc-898d84786c38": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Hit React 2.anim.nasset"
+    },
     "4bc4080d-9f8e-5111-b3eb-73ac2412ecb9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1543,6 +1568,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "534e2080-89ea-e664-5d31-bc1ae760ea72": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Kick Right.anim.nasset"
+    },
     "5464dd8b-74cb-15be-33c1-e3563af029e7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1570,6 +1600,11 @@
             "15177b3d-8c9d-322d-7387-c8a70621b94f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "55ff5a8d-9653-8555-027f-b92f9fe5a4c3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Death.anim.nasset"
     },
     "578b0ee3-3476-615b-f218-b85e882a4f63": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1674,7 +1709,7 @@
     "5b5a3377-d1d6-45fe-948a-cd20399c07cb": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Hiro/Hiro_Idle.anim.nasset",
+        "path": "Assets/Characters/Hiro/Animations/Hiro_Idle.anim.nasset",
         "dependencies": [
             "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
@@ -2253,6 +2288,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7cd42632-7c16-36f1-fba1-716a6c8bc5cc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Gun Shoot.anim.nasset"
+    },
     "7e2bc010-15ca-ba0e-8f29-cf365551ecca": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2329,6 +2369,11 @@
             "8b44fb75-910e-66e6-4aa9-5173060ddd0e"
         ]
     },
+    "809171d1-dabe-4f77-b4bc-54eb3abfd86b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Run Back.anim.nasset"
+    },
     "809706ce-a8a1-fb0c-d242-eb6f0ade72a9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2368,7 +2413,7 @@
     "83063715-ad75-4bfa-a01e-0dcd8db7564a": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Hiro/Hiro_Walk.anim.nasset",
+        "path": "Assets/Characters/Hiro/Animations/Hiro_Walk.anim.nasset",
         "dependencies": [
             "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
@@ -2696,7 +2741,7 @@
     "96f830e7-a3b2-4221-a648-97d1e76304fb": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Hiro/Hiro_Jump_Loop.anim.nasset",
+        "path": "Assets/Characters/Hiro/Animations/Hiro_Jump_Loop.anim.nasset",
         "dependencies": [
             "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
@@ -2786,6 +2831,11 @@
             "830535fb-fea3-ea8a-d0fd-32732cd96ec9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "9d250d91-26dd-942c-6b44-4df6503cc497": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Gun Pointing.anim.nasset"
     },
     "9d3d8720-6c9d-de5c-a658-107a368a6712": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3002,6 +3052,11 @@
             "bb7b1d24-cf17-7add-e960-10eecddc2158",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "a5afcfeb-c91d-a146-f45c-e1aa99252b98": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Idle Neutral.anim.nasset"
     },
     "a5b3b01c-ad43-fc31-1770-77de9590781c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3242,6 +3297,11 @@
             "1cb1f5fa-ff81-6289-ffd9-75affc60690e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "b2b8a861-131b-f399-dfc4-e60853783ee8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Punch Left.anim.nasset"
     },
     "b30c7088-8cbd-ca0b-8553-291c087c992c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3570,6 +3630,11 @@
             "74e33584-0b2b-2063-a2ee-194bfb235ee1"
         ]
     },
+    "cc3ebe2e-6258-c060-5089-07ae58898e71": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Hit React 1.anim.nasset"
+    },
     "cc6a2763-927b-213b-6c86-839d2b44610c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3757,6 +3822,11 @@
             "1cc33d30-a47b-a9cb-8a27-4e8957283573",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d876211d-a83e-fc3a-e407-efe18e2a8137": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Sword Slash.anim.nasset"
     },
     "d88c6cc8-7213-aa8d-b266-bc635035b3cd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4157,6 +4227,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "edc299f0-52d8-6162-cf3c-ceb39560dab8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Run Shoot.anim.nasset"
+    },
     "eebddba0-efa2-db0e-f56e-e91e584df933": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4228,6 +4303,11 @@
     "f18e56ed-10d3-51d8-8170-91df5b6132a6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Cypherpunk.scene.nasset/Sign 1.mesh.nasset/Thumbnails/Sign 1.mesh.nasset.tex.nasset"
+    },
+    "f2edddac-cb98-7a08-6987-3cd1e2f9a236": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Run Left.anim.nasset"
     },
     "f319f158-1b48-e6cd-555d-74ba4bb3c11c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4455,6 +4535,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ff19b1b6-d2f4-a2ad-6629-88345a897f7d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Hiro/Animations/Hiro Punch Right.anim.nasset"
+    },
     "ffc6a198-75de-60a7-ba39-cc7b3eaae060": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4470,7 +4555,7 @@
     "ffd7e1d7-5d20-4263-a248-75d0c8fe808c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Hiro/Hiro_Jump_Start.anim.nasset",
+        "path": "Assets/Characters/Hiro/Animations/Hiro_Jump_Start.anim.nasset",
         "dependencies": [
             "2514225f-379c-59a5-662c-4f6fd3b81a2c"
         ]
